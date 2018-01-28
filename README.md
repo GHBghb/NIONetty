@@ -1,0 +1,3 @@
+一个NIO是可以有多个selector
+
+selector是可以注册一个ServerSocketChannel？
